@@ -1,0 +1,115 @@
+export default {
+     // Home page words and Categories page words
+    Men:"Men",
+    Women:"Women",
+    Tshirt:"T-shirt",
+    Cloth:"Clothing",
+    dress:"Dressing",
+    poster:"Poster",
+    music:"Music",
+    singles:"Singles",
+    Slitch:"Slitch Detail Tunic Dress",
+    Feature_Products:"Feature Products",
+    show_all:"Show all",
+    Bermuda_shorts:"Bermuda shorts by Armani",
+    Bags_collection:"Bags Collection",
+    Products:"Products",
+    Shirt:"Shirt",
+    Bags:"Bags",
+
+     // Modal Words
+     Two_Column:"Two Column",
+     Three_Column:"Three Column",
+     List:"List View",
+     Horizontal:"Horizontal",
+
+    // Counting
+    F45:"45",
+    F35:"35",
+    F12:"12",
+    F13:"13",
+    F28:"28",
+
+    // Cart Page 
+    Total_Price:"Total Price:",
+    Back:"Back",
+    Next_Step:"Next-step",
+
+
+    // Search Page Words
+    Search:"Search Product By name",
+    Filters:"Filters",
+    Product_Catalog:"Product Catalog",
+    Hoodies:"Hoodies",
+    Shoes:"Shoes",
+    Product_Tags:"Product Tags",
+    White:"White",
+    Feature:"Feature",
+    Hunk:"Hunk",
+    Grey:"Grey",
+    Filter:"Filter",
+    Clear_Filters:"Clear Filters",
+
+   // Account Page
+   Guest:"Guest",
+   Login:"Login",
+   Wish_List:"Wishlist",
+   Currency:"Currency",
+   Languages:"Languages",
+   Push_Notifications:"Push Notifications",
+   Dark_Theme:"Dark Theme",
+   Contact_us:"Contact us",
+   Privacy_Policies:"Privacy ploicies",
+   Terms_and_Conditions:"Terms & Conditions",
+   About_us:"About us",
+
+    // Two column Three column and list view
+    Mens_Shirt:"New Mens Shirt",
+    Lastree_Limited:"Lastree Limited Edition",
+    Saint_Seiya:"Saint Seiya Limited",
+    Ladies_Long:"Ladies Long Shirt",
+    Cloth_Design:"Design Cloth for Men",
+    Mens_Chemise:"Mens Shirt",
+    Crocodile_Leather:"Crocodile leather shoes",
+    Orange_Ladies:"Orange Ladies bag",
+    Grey_Ladies:"Grey Ladies Bag",
+
+    // Login and Signup
+    Username:"Username or Email",
+    Password:"Password",
+    Forgot:"Forgot Password ?",
+    Login:"Login",
+    Login_Facebook:"Login with Facebook",
+    Dont_Have:"Don't have an account ? ",
+    Signup:"Signup",
+    Only_Username:"Username",
+    Only_Email:"Email",
+    Phone:"Phone",
+    Confirm_Password:"Confirm password",
+    Do_Have:"Do you have an Account ? ",
+    Signin:"Signin",
+    Or:"OR",
+    Enter_Email:"Enter your email address",
+    Send:"Send",
+
+    // Item and Item2 page words
+    Tapestry_Shopper:"Tapestry Shopper",
+    Reviews:"Reviews",
+    Description:"Description",
+    Woven_Cotton:"Woven cotton-rich fabric",
+    Seude_Leather:"Seude leather trim",
+    Magnetic_Press:"Magnetic press stud fastening",
+    Zipped_Pocket:"Zipped pocket to interior",
+    Not_Wash:"Do not wash",
+    Lorem_Ipsum:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    Sophia:"Sophia Kennedy",
+    Amazing:"Amazing",
+    July:"July 17,2018",
+    You_Like:"You may also like",
+
+    // Drawer Navigation words
+    Home:"Home",
+    Cart:"Cart",
+    Categories:"Categories",
+    Account:"Account",
+}

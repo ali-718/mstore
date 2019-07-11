@@ -1,0 +1,37 @@
+{
+  "name": "mstore_master",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.9",
+    "native-base": "^2.12.1",
+    "react-native-auto-height-image": "^1.1.0",
+    "react-native-collapsible": "^1.4.0",
+    "react-native-credit-card": "^0.1.9",
+    "react-native-elements": "^1.1.0",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-hr-component": "^2.0.2",
+    "react-native-i18n": "^2.0.15",
+    "react-native-modal": "^9.0.0",
+    "react-native-paper": "^2.15.2",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.4.2",
+    "react-navigation": "^2.18.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/runtime": "7.4.5",
+    "babel-jest": "24.8.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
